@@ -15,7 +15,7 @@ I am a researcher bridging the gap between **Classical Statistics** and **Deep L
 ----------------------------------------------------------------------
 
 ##  Research Series: The Evolution of Financial Forecasting
-This series presents my research on improving predictive performance by developing financial forecasting models. The work explores a progression from hybrid econometric approaches to advanced deep learning models based on attention mechanisms. 
+This series documents my research on improving predictive performance in financial forecasting. It follows the progression from hybrid econometric models to modern deep learning approaches, including attention-based architectures. 
 ###  [Phase 1: Hybrid Statistical Foundations] https://github.com/haniRezaei/Stock-Price-Forecasting-Project-Using-Hybrid-ARIMA-LSTM-and-Sentiment-Analysis
 * **The Problem:** Decoupling linear trends from non-linear market noise.
 * **Solution:** An **ARIMA-LSTM Ensemble**.
