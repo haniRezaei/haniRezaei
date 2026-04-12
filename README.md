@@ -1,13 +1,21 @@
 # Hi, I'm Hanieh Rezaei 
 ### NLP Specialist | Senior Statistical Modeling Expert
 
-I am a researcher bridging the gap between **Classical Statistics** and **Deep Learning**. With 10 years of academic experience in mathematical modeling and two Master's degrees, my work focuses on creating robust AI systems for financial intelligence.
+Hi, I'm Hanieh Rezaei
+NLP Specialist | Senior Statistical Modeling Expert
 
----
+I am a researcher bridging the gap between **Classical Statistics** and **Deep Learning**. With 10 years of academic experience in mathematical modeling and two Master's degrees, my work focuses on creating robust AI systems for complex data intelligence.
+
+--------------------------------------------------------------------
+## Specialized Research: Econometrics & Global Sustainability[Advanced Econometric Modeling of CO2 Emissions] https://github.com/haniRezaei/Global-Environmental-Dynamics-EKC-Analysis
+**The Problem:** Identifying long-run causal drivers in non-stationary, multi-dimensional global datasets.
+**Solution:** A rigorous Econometric Pipeline using FMOLS/DOLS and Panel Cointegration tests.
+**Key Achievement:** Validated the Environmental Kuznets Curve (EKC) across 165 countries, proving that population aging is a statistically significant predictor of carbon trajectories ($p < 0.01$).
+
+----------------------------------------------------------------------
 
 ##  Research Series: The Evolution of Financial Forecasting
-> This series documents my investigation into maximizing "Predictive Alpha" by evolving from hybrid econometrics to custom Attention-based architectures.
-
+This series presents my research on improving predictive performance by developing financial forecasting models. The work explores a progression from hybrid econometric approaches to advanced deep learning models based on attention mechanisms. 
 ###  [Phase 1: Hybrid Statistical Foundations] https://github.com/haniRezaei/Stock-Price-Forecasting-Project-Using-Hybrid-ARIMA-LSTM-and-Sentiment-Analysis
 * **The Problem:** Decoupling linear trends from non-linear market noise.
 * **Solution:** An **ARIMA-LSTM Ensemble**.
