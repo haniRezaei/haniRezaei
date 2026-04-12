@@ -8,9 +8,9 @@ I am a researcher bridging the gap between **Classical Statistics** and **Deep L
 
 --------------------------------------------------------------------
 ## Specialized Research: Econometrics & Global Sustainability[Advanced Econometric Modeling of CO2 Emissions] https://github.com/haniRezaei/Global-Environmental-Dynamics-EKC-Analysis
-**The Problem:** Identifying long-run causal drivers in non-stationary, multi-dimensional global datasets.
-**Solution:** A rigorous Econometric Pipeline using FMOLS/DOLS and Panel Cointegration tests.
-**Key Achievement:** Validated the Environmental Kuznets Curve (EKC) across 165 countries, proving that population aging is a statistically significant predictor of carbon trajectories ($p < 0.01$).
+* **The Problem:** Identifying long-run causal drivers in non-stationary, multi-dimensional global datasets.
+* **Solution:** A rigorous Econometric Pipeline using FMOLS/DOLS and Panel Cointegration tests.
+* **Key Achievement:** Validated the Environmental Kuznets Curve (EKC) across 165 countries, proving that population aging is a statistically significant predictor of carbon trajectories ($p < 0.01$).
 
 ----------------------------------------------------------------------
 
