@@ -1,5 +1,5 @@
 # Hi, I'm Hanieh Rezaei 
-### ML Researcher, NLP &  Statistical Modeling, MSc Data Science UniBO
+### ML & NLP Researcher | Financial Forecasting & Statistical Modeling | Dual MSc: Data Science (UniBO) + Mathematical Statistics
 
 Hi, I'm Hanieh Rezaei
 NLP Specialist | Senior Statistical Modeling Expert
