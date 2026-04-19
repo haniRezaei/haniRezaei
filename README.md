@@ -1,7 +1,6 @@
 # Hi, I'm Hanieh Rezaei 
 ### ML & NLP Researcher | Financial Forecasting & Statistical Modeling | Dual MSc: Data Science (UniBO) + Mathematical Statistics
 
-Hi, I'm Hanieh Rezaei
 
 I am a researcher bridging the gap between **Classical Statistics** and **Deep Learning**. With 10 years of academic experience in mathematical modeling and two Master's degrees, my work focuses on creating robust AI systems for complex data intelligence.
 
