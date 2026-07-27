@@ -59,9 +59,6 @@ This series documents my research on improving predictive performance in financi
 
 In addition to foundational ML research, I build end-to-end data analytics, machine learning, and interactive visual reporting systems to solve applied business problems.
 
-##  Applied Analytics, BI & Predictive Decision Systems
-
-In addition to foundational ML research, I build end-to-end data pipelines, machine learning models, and interactive visual reporting systems to solve applied business problems.
 
 
 ---
