@@ -92,3 +92,113 @@ In addition to foundational ML research, I build end-to-end data analytics, mach
 * **The Problem:** Unstructured transactional sales data preventing executive visibility into peak staffing windows, order volumes, and menu item margins.
 * **Solution:** Executed complex SQL data aggregations and DAX calculations to construct dynamic KPIs ($Total\ Revenue$, $AOV$, $Pizzas\ per\ Order$) alongside Power BI visualizations tracking cumulative revenue and hourly order distributions.
 * **Key Achievement:** Identified key demand spikes at **12:00–1:00 PM** (lunch) and **5:00–7:00 PM** (dinner), and revealed product margin discrepancies—proving *The Thai Chicken Pizza* generates top-tier revenue ($43.4K) despite lower total volume—to directly inform menu bundling strategies.
+
+
+# Hi, I'm Hanieh Rezaei 👋
+
+**ML & NLP Researcher | Biostatistics & Financial Forecasting | Business Intelligence Analyst**
+*Dual MSc: Data Science (University of Bologna) + Mathematical Statistics (Shiraz University)*
+
+I am a researcher bridging the gap between **classical statistics** and **deep learning**. With over 10 years of academic experience in mathematical modeling and statistics education, plus hands-on industry experience as a data analyst, I build robust AI systems, predictive decision pipelines, and advanced analytics for complex data intelligence — from econometric research to end-to-end BI solutions.
+
+I'm currently seeking **Data Analyst, Biostatistics, and Machine Learning roles/PhD positions** in Germany and Switzerland.
+
+📫 **Connect with me:**
+LinkedIn: Hanieh Rezaei
+Email: hanieh.rezaei@studio.unibo.it | hanir84@ymail.com
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Data Analysis**
+`Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)` `R` `SQL` `SAS`
+
+**Machine Learning & AI**
+Classification & Regression Models · Random Forest · XGBoost · SVM · Logistic Regression · Feature Engineering · Model Evaluation & Optimization · Time-Series Forecasting
+
+**NLP & Large Language Models**
+Transformer Models (BERT, FinBERT, GPT-based) · Sentiment Analysis · Text Mining · Word Embeddings (GloVe, Word2Vec) · Text Classification
+
+**Statistics & Econometrics**
+Bayesian Inference · Hypothesis Testing · Time-Series Cointegration (FMOLS/DOLS) · Panel Data Models · Stochastic Processes · Statistical Inference
+
+**Business Intelligence & Visualization**
+Power BI · DAX · SQL Server · Tableau · Interactive Dashboard Development · KPI Design & Reporting
+
+---
+
+## 🔬 Specialized Research
+
+### Advanced Econometric Modeling of CO2 Emissions
+**Problem:** Identifying long-run causal drivers in non-stationary, multi-dimensional global datasets.
+**Solution:** A rigorous econometric pipeline using FMOLS/DOLS and Panel Cointegration tests.
+**Key Achievement:** Validated the Environmental Kuznets Curve (EKC) across 165 countries, showing population aging as a statistically significant predictor of carbon trajectories (p < 0.01).
+
+### Research Series: The Evolution of Financial Forecasting
+This series tracks my progression from hybrid econometric models to modern attention-based architectures for financial time-series prediction.
+
+| Phase | Problem | Solution | Achievement |
+|---|---|---|---|
+| **1. Hybrid Statistical Foundations** | Decoupling linear trends from non-linear market noise | ARIMA–LSTM Ensemble | Reduced MAPE to 1.56% on the DJIA index |
+| **2. Semantic Intelligence & Transformers** | Lexicons like VADER miss nuanced financial context | Comparative study: FinBERT vs. lexicon-based models | Domain-specific LLMs showed a significant R² increase in directional forecasting |
+| **3. Data Denoising & Subjectivity Filtering** | Objective reporting and noise degrade sentiment signals | Custom 1D-CNN trained on the Cornell Subjectivity Dataset | Improved model robustness by filtering subjective opinions from objective facts |
+| **4. Advanced Architectures (Attention)** | Standard LSTMs struggle with long-term memory in multi-step forecasts | CNN-LSTM-Attention with custom attention layer, 7-day vector output | Enabled dynamic weighting of market "shock events" for reliable medium-term forecasting |
+
+---
+
+## 📊 Featured Business Intelligence & Analytics Projects
+
+### 📌 Telecom Customer Churn & New-Customer Risk Engine
+**Problem:** High baseline churn (~27%) causing multi-million dollar revenue losses, with no early-warning system for new accounts.
+**Solution:** A leakage-free ML pipeline (data split prior to encoding) integrated with an automated SQL Server backend and an interactive Power BI dashboard tracking demographic, service, and regional risk factors.
+**Key Achievement:** Random Forest model with **AUC 0.892** and **77% recall** on churners; identified contract type as the primary driver (24.95% feature importance); found 93.9% of new customers are high-risk due to month-to-month contracts.
+
+`Tools: Python | SQL Server | Power BI | Machine Learning`
+
+### 🎯 Predictive Customer Subscription & Marketing Optimization
+**Problem:** High acquisition costs and low conversion from untargeted marketing campaigns (~3,900 accounts).
+**Solution:** End-to-end predictive classification workflow with engineered behavioral features (Spend_Per_Purchase, Promo_Engagement, Satisfaction_Score), SMOTE for class balancing, and 5-fold Stratified K-Fold CV tuning.
+**Key Achievement:** XGBoost scoring engine with **86.5% test accuracy** and **0.916 ROC-AUC**, shifting marketing from random outreach to conversion-prioritized targeting.
+
+`Tools: Python | XGBoost | Scikit-learn | Machine Learning`
+
+### 📈 Retail Sales, Weather & Demographics Driver Analysis
+**Problem:** Leadership lacked clarity on environmental and demographic drivers behind daily sales fluctuations across multi-store locations.
+**Solution:** Unified SQL analytical view merging sales, weather logs, and customer survey data, powering an interactive Power BI report with normalized metrics (Sales_Per_Customer) and temporal breakdowns.
+**Key Achievement:** Showed daily revenue closely tracks ambient temperature, while rain mainly affects walk-in volume rather than basket size; established spend-per-head metrics to optimize cross-store staffing.
+
+`Tools: SQL | Power BI | Data Analytics`
+
+### 🍕 End-to-End Pizza Sales & Revenue Optimization BI
+**Problem:** Unstructured transactional data prevented executive visibility into peak staffing windows, order volumes, and menu margins.
+**Solution:** SQL data aggregations and DAX calculations for dynamic KPIs (Total Revenue, AOV, Pizzas per Order), with Power BI visualizations of cumulative revenue and hourly order distribution.
+**Key Achievement:** Identified demand spikes at 12–1 PM and 5–7 PM; revealed that the Thai Chicken Pizza generates top-tier revenue ($43.4K) despite lower volume — informing menu bundling strategy.
+
+`Tools: SQL | Power BI | DAX | Business Analytics`
+
+---
+
+## 🌱 Currently Interested In
+- Data Analyst / Biostatistics roles
+- Machine Learning & Predictive Analytics positions
+- PhD opportunities in Statistics, Biostatistics, or Data Science
+- Business Intelligence & health/clinical analytics (e.g., IQVIA, Bayer, Roche)
+
+---
+
+## 📂 Repository Structure
+```
+Portfolio/
+│
+├── Business_Intelligence/
+│   ├── Pizza_Sales_Analysis/
+│   ├── Telecom_Churn_Analysis/
+│   └── Retail_Analytics/
+│
+├── Machine_Learning/
+│   ├── Customer_Prediction/
+│   └── Financial_Forecasting/
+│
+└── README.md
+```
